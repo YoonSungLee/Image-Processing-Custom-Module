@@ -1,2 +1,2 @@
-# Line-Length-Calculator
-Draw the line you want to calculate in your image and get the length of the line
+# Image Processing Custom Module
+This repository contains useful image processing custom modules I made for my task.
